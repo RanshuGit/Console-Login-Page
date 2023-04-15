@@ -5,5 +5,5 @@ It includes:
 1. SIGN UP
 2. LOGIN
 # Database
-db name = mydb
-table = login
+.db name = mydb
+.table = login
