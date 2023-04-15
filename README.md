@@ -4,6 +4,3 @@ Console based simple SignUp/ Login Page using java.
 It includes:
 1. SIGN UP
 2. LOGIN
-# Database
-.db name = mydb
-.table = login
